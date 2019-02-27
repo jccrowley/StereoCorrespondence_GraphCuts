@@ -4,7 +4,7 @@ import cv2
 import os
 import math
 import maxflow
-import final
+import stereo
 from scipy import stats
 
 def part_1a():
