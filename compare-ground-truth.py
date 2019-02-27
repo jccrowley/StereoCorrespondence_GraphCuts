@@ -7,7 +7,7 @@ import maxflow
 import sys
 from scipy import stats
 import loadpfm
-import final
+import stereo
 
 def percent_correct(gt, disp):
     print np.unique(gt.flatten())
